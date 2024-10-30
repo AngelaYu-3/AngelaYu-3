@@ -2,7 +2,7 @@
 
 I am an undergraduate computer science major passionate about the integration of hardware and software (computer architecture, operating systems etc), applications of machine learning, and intersectional areas of policy and technology especially in regards to AI regulation.
 
-I value empowering marginalized communities within STEM, fostering collaborative, communicative and encouraging work environments, and advocating for mental health.
+I value empowering marginalized communities within STEM and fostering collaborative, communicative and encouraging work environments.
 
 Please check out the pinned repositories below to view some of my latest projects! 
 
