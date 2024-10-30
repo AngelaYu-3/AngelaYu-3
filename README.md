@@ -8,7 +8,7 @@ Please check out the pinned repositories below to view some of my latest project
 
 If any of the above points pique your interest, reach out at yuangela12@gmail.com
 
-Thank you for stopping bye :)
+Thank you for stopping by :)
 
 <!--
 **AngelaYu-3/AngelaYu-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
