@@ -1,4 +1,8 @@
-## Hi there 👋
+## Hi, I'm Angela 👩🏻‍💻
+
+I'm Angela, an undergraduate computer science major passionate about the integration of hardware and software (computer architecture, operating systems etc), applications of machine learning, and intersectional areas of policy and technology especially in regards to AI regulation. 
+
+I value 
 
 <!--
 **AngelaYu-3/AngelaYu-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
