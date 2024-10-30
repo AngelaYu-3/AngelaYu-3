@@ -8,7 +8,7 @@ Please check out the pinned repositories below to view some of my latest project
 
 If any of the above points pique your interest, reach out at yuangela12@gmail.com
 
-Thank you for stopping by :)
+Thanks for stopping by :)
 ___
 
 (to consider some of my initial thoughts in regards to society + technology, 
