@@ -4,7 +4,7 @@ I am an undergraduate computer science major passionate about the integration of
 
 I value empowering marginalized communities within STEM and fostering collaborative, communicative and encouraging work environments.
 
-Additionally, check out the pinned repositories below to view some of my latest projects! 
+Please check out the pinned repositories below to view some of my latest projects! 
 
 If any of the above points pique your interest, reach out at yuangela12@gmail.com
 
