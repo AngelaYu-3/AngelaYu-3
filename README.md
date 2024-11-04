@@ -1,6 +1,6 @@
 ## Hi, I'm Angela! 👩🏻‍💻
 
-I am an undergraduate computer science major interested in the integration of hardware and software (computer architecture, operating systems etc), applications of machine learning, and intersectional areas of policy and technology especially in regards to AI regulation.
+I am an undergraduate at the University of Rochester pursuing a Computer Science Major with an Ethics in Philosophy Minor. I am interested in the integration of hardware and software (computer architecture, operating systems etc), applications of machine learning, and intersectional areas of policy and technology especially in regards to AI regulation.
 
 I value empowering marginalized communities within STEM and fostering collaborative, communicative and encouraging work environments.
 
