@@ -1,6 +1,6 @@
 ## Hi, I'm Angela! 👩🏻‍💻
 
-I am an undergraduate Computer Science Major with an Ethics in Philosophy Minor. 
+I am a Dean's Scholar at the University of Maryland pursuing an undergraduate Computer Engineering Major with an Ethics in Philosophy Minor. 
 
 I am interested in the integration of hardware and software (computer architecture, operating systems etc), applications of machine learning, and intersectional areas of technology and policy especially in regards to AI regulation.
 
