@@ -2,7 +2,7 @@
 
 I am a Dean's Merit Scholar at the University of Rochester pursuing an undergraduate Computer Science Major with a Political Science Minor. 
 
-I am interested in the integration of hardware and software (computer architecture, operating systems etc), applications of machine learning, and intersectional areas of technology and policy especially in regards to AI regulation.
+I am interested in applications of machine learning, integration of hardware and software (computer architecture, operating systems etc), and intersectional areas of technology and policy especially in regards to AI regulation.
 
 Please check out the pinned repositories below to view some of my latest projects! 
 
