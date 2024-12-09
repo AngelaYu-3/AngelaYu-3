@@ -1,6 +1,6 @@
 ## Hi, I'm Angela! 👩🏻‍💻
 
-I am a President's Scholar at the University of Maryland, College Park pursuing an undergraduate Computer Engineering Major with a Science, Technology, Ethics, and Policy Minor. 
+I am a President's Scholar at the University of Maryland, College Park pursuing an undergraduate Computer Engineering Major. 
 
 I am interested in applications of machine learning, integration of hardware and software (computer architecture, operating systems etc), and intersectional areas of technology and policy especially in regards to AI regulation.
 
