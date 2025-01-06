@@ -1,6 +1,6 @@
 ## Hi, I'm Angela! 👩🏻‍💻
 
-I am an undergraduate President's Scholar pursuing a Computer Engineering BS at the University of Maryland, College Park. 
+I am a President's Scholar at the University of Maryland, College Park pursuing a Computer Engineering BS. 
 
 I am interested in applications & optimizations of machine learning, intersections of hardware & software (computer architecture, operating systems etc), and intersections of technology & law especially in regards to AI regulation.
 
