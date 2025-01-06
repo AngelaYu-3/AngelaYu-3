@@ -11,7 +11,7 @@ If any of the points above pique your interest, reach out at yuangela12@gmail.co
 Thanks for stopping by :)
 ___
 
-(to consider some of my initial thoughts in regards to society + technology, 
+(to consider some of my initial thoughts in regards to society & technology, 
 [click here!](https://github.com/AngelaYu-3/posts/blob/main/society%20%2B%20technology.pdf))
 
 <!--
