@@ -6,7 +6,7 @@ I am interested in applications & optimizations of machine learning, intersectio
 
 Please check out the pinned repositories below to view some of my latest projects! 
 
-If any of the above points pique your interest, reach out at yuangela12@gmail.com
+If any of the points above pique your interest, reach out at yuangela12@gmail.com
 
 Thanks for stopping by :)
 ___
