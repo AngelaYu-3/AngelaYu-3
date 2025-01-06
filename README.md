@@ -4,7 +4,7 @@ I am a President's Scholar at the University of Maryland, College Park pursuing 
 
 I am interested in applications & optimizations of machine learning, intersections of hardware & software (computer architecture, operating systems etc), and intersections of technology & law especially in regards to AI regulation.
 
-Please check out the pinned repositories below to view some of my latest projects! 
+Please check out the pinned repositories below to view some of my projects! 
 
 If any of the points above pique your interest, reach out at yuangela12@gmail.com
 
