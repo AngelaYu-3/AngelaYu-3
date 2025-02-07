@@ -12,7 +12,7 @@ Thanks for stopping by :)
 ___
 
 (to consider some of my initial thoughts in regards to society & technology, 
-[click here!](https://github.com/AngelaYu-3/posts/blob/main/society%20%2B%20technology.pdf))
+[click here!](https://github.com/AngelaYu-3/posts/blob/main/society%20%2B%20technology.pdf)
 
 <!--
 **AngelaYu-3/AngelaYu-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
