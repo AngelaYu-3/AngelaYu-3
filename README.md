@@ -4,7 +4,7 @@ I am a President's Scholar at the University of Maryland, College Park pursuing 
 
 Please check out the pinned repositories below to view some of my projects! 
 
-If any of the points above pique your interest, reach out at yuangela12@gmail.com
+If any of the points above or projects pique your interest, reach out at yuangela12@gmail.com
 
 Thanks for stopping by :)
 ___
