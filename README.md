@@ -2,7 +2,7 @@
 
 I am a President's Scholar at the University of Maryland, College Park pursuing a Computer Engineering BS. I am interested in embedded systems, ML, and AI ethics.
 
-Please check out the pinned repositories to view some of my projects! 
+Check out the pinned repositories to view some of my projects! 
 
 If any of these points or projects pique your interest, reach out at yuangela12@gmail.com
 
