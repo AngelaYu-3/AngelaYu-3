@@ -9,8 +9,8 @@ If any of these points or projects pique your interest, reach out at yuangela12@
 Thanks for stopping by :)
 ___
 
-to consider some of my initial thoughts in regards to society & technology, 
-[click here!](https://github.com/AngelaYu-3/posts/blob/main/society%20%26%20technology.pdf)
+to see my explorations and thoughts upon AI ethics and society + technology, 
+[click here!](https://github.com/AngelaYu-3/Posts)
 
 <!--
 **AngelaYu-3/AngelaYu-3** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
