@@ -9,7 +9,7 @@ If any of these points or projects pique your interest, reach out at yuangela12@
 Thanks for stopping by :)
 ___
 
-to see my explorations and thoughts upon AI ethics and society + technology, 
+to see my explorations and thoughts on AI ethics and society + technology, 
 [click here!](https://github.com/AngelaYu-3/Posts)
 
 <!--
