@@ -1,6 +1,6 @@
 ## Hi, I'm Angela! 👩🏻‍💻
 
-I am a President's Scholar at the University of Maryland, College Park pursuing a Computer Engineering BS. I am interested in embedded systems, ML, and AI ethics.
+I am a President's Scholar at the University of Maryland, College Park pursuing a Computer Engineering BS. I am interested in embedded systems, ML, and AI security & ethics.
 
 Check out the pinned repositories to view some of my projects! 
 
