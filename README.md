@@ -1,6 +1,6 @@
 ## Hi, I'm Angela! 👩🏻‍💻
 
-I am a President's Scholar at the University of Maryland, College Park pursuing a Computer Engineering BS. I am interested in infrastructure, ML, and AI security & ethics. I was most recently an intern at IBM on the z/AI Spyre AI Enablement Infrastructure team, building software for hardware accelerator chips!
+I am a President's Scholar at the University of Maryland, College Park pursuing a Computer Engineering BS. I am interested in infrastructure, ML, and AI security & ethics. I was most recently an IBM intern on the z/AI Spyre AI Enablement Infrastructure team, building software for hardware accelerator chips!
 
 Check out the pinned repositories to view some of my projects! 
 
